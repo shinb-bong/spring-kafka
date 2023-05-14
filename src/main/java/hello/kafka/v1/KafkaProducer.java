@@ -1,4 +1,4 @@
-package hello.kafka.producer;
+package hello.kafka.v1;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.core.KafkaTemplate;
