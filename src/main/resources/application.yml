@@ -8,7 +8,7 @@ spring:
       on-profile: first
   kafka:
     consumer:
-      bootstrap-servers: localhost:9092동
+      bootstrap-servers: localhost:9092
       group-id: foo
       auto-offset-reset: earliest
       key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
